@@ -1,0 +1,5 @@
+/.scannerwork
+/coverage
+/node_modules
+.env
+.env.testing

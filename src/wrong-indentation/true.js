@@ -1,0 +1,10 @@
+class MyClass {
+  methodA() {
+    //
+  }
+
+  methodA() {
+    //
+  }
+};
+

@@ -1,0 +1,7 @@
+/coverage
+/node_modules
+.env
+.env.testing
+Jenkinsfile
+openapi.yml
+postman_collection.json
